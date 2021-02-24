@@ -3,6 +3,7 @@
 - [vscode-manim](https://github.com/dipamsen/vscode-manim)
 - [LichessJS](https://github.com/dipamsen/LichessJS)
 - [VidGen](https://github.com/dipamsen/VidGen)
+- [p5.text](https://github.com/dipamsen/p5.text)
 
 ## Next Up:
 - [Graph Theory](https://github.com/dipamsen/Diskstra-s-algorithm) with [Manim](https://manim.community)
