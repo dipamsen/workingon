@@ -5,7 +5,7 @@
 - [VidGen](https://github.com/dipamsen/VidGen)
 - [p5.text](https://github.com/dipamsen/p5.text)
 - [Othello](https://github.com/dipamsen/othello)
-- FPSite (private)
+- [FPSite](https://github.com/dipamsen/FPSite) (private)
 
 ## Coding Train Stuff
 
